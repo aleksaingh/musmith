@@ -10,7 +10,7 @@ For the difficulties i was pretty much the same as my last project [Clicksmith](
   + A rotary encoder
   + And a 0.91" oled screen
 ## Firmware
-The firmware is a custom circuitpython script and a janky ps1 script that runs at startup. Why? Because i couldn't think of a better way to capture the song and the artist to display on the OLED. The rotary encoder controls the volume and the keys as said in the begining go to the previous track - play/pause - go to the next track.
+The firmware is a custom circuitpython script (That I and AI made) and a janky Powershell script (This one AI made) that runs at startup. Why? Because i couldn't think of a better way to capture the song and the artist to display on the OLED. The rotary encoder controls the volume and the keys as said in the begining go to the previous track - play/pause - go to the next track.
 
 ## OLED screen
 As i said the oled is a 0.91" screen that displays the current song and the artist. If i really want it i will maybe add the current time and the progress bar also.
