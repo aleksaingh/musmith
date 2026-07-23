@@ -25,6 +25,7 @@ What's needed to make this
   + 1x EC11 Rotary encoder
   + 1x XIAO RP2040
   + 1x 0.91" OLED
+
 That's All! 👋
 
 # Images and other nerdy stuff
